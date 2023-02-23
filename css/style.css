@@ -1,1 +1,433 @@
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
 
+.nav-link:hover {
+    text-decoration: underline;
+    transition: 0.5s ease;
+}
+
+
+.navbar-brand {
+    font-family: optima;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.nav-link {
+    font-family: optima;
+    font-size: 20px;
+}
+
+#background {
+    background: url(../img/pic/1donat.png) no-repeat;
+    background-size: cover;
+    padding-top: 89px;
+    height: 700px;
+    width: auto;
+    filter: grayscale(55%);
+    opacity: 2;
+}
+
+
+
+#background .jumbotron{
+    background: none;
+    margin-top: 150px;
+}
+
+.jumbotron h1 {
+    font-size: 3cm;
+    font-family: candara;
+    font-style: bold;
+    font-weight: 600;
+    text-shadow: 3px 2px 1px grey;
+    margin-left: 40px;
+}
+
+.jumbotron p {
+    font-family: optima;
+    margin-top: -20px;
+    font-size: 20px;
+    text-shadow: 3px 1px  black;
+    margin-left: 40px;
+    margin-left: 40px;
+}
+
+.icon {
+    margin-top: 150px;
+    margin-left: 40px;
+}
+
+.bi-facebook {
+    margin-left: 20px;
+}
+
+.bi-whatsapp {
+    margin-left: 18px;
+}
+
+.background1 {
+    background-color: black;
+    padding-top: 80px;
+    min-height: 500px;
+    width: auto;
+}
+
+.jumbotron1{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.jumbotron1 h1 {
+    font-size: 1.5cm;
+    font-family: candara;
+    font-style: bold;
+    font-weight: 600;
+    margin-left: 70px;
+}
+
+hr {
+    width: 200px;
+}
+
+#price h1 {
+    font-family: candara;
+    font-size: 1.5cm;
+    font-weight: 600;
+    font-style: bold;
+    margin-left: 70px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+#price .container-fluid{
+    margin-top: -80px;
+}
+
+.col-sm {
+    margin-left: 60px;
+    padding-bottom: 50px;
+}
+
+.col-sm-4 {
+    padding-left: 80px;
+    padding-top: 20px;
+    margin-right: -20px;
+}
+.col-sm-2{
+    padding-top: 25px;
+    padding-left: 80px;
+
+}
+.row h4 {
+    font-family: optima;
+    font-weight: 500;
+    color: #596164;
+    padding-top: 15px;
+}
+
+.row p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -10px;
+    color: #596164;
+}
+
+.button {
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+.background2 {
+    width: auto;
+    height: 600px;
+    background-color: #ededed;
+    margin-top: 100px;
+}
+
+.background2 img {
+    height: 550px;
+    width: 400px;
+    padding-top: 100px;
+    margin-left: 30px;
+}
+
+#about {
+    background-color: #BDB9B8;
+    height: fit-content;
+}
+
+#about .container{
+    padding-top: 80px;
+    margin-top: 80px;
+    height: fit-content;
+}
+
+.about-img img {
+    width: 650px;
+    height: 500px;
+    margin-top: -10px;
+}
+
+.about-text {
+    padding-top: 20px;
+}
+
+.about-text h2 {
+    font-weight: 800;
+    font-size: 1cm;
+    font-family: candara;
+}
+
+.about-text p {
+    padding-top: 20px;
+    color: #404350;
+}
+
+.about-section-padding .row {
+    padding-bottom: 50px;
+}
+
+.moment-text{
+    padding-top: 40px;
+}
+.moment-text h2{
+    font-family: candara;
+    font-size: 1cm;
+    font-weight: 800;
+}
+
+.moment-text p {
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.moment-pict {
+    float: right;
+}
+
+
+#portofolio {
+    background-color: #BDB9B8;
+}
+
+#portofolio .container {
+    padding: 3rem;
+    padding-bottom: 90px;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    padding-top: 15px;
+}
+
+.jumbotron2 {
+    background-color: black;
+    min-height: 500px;
+    width: auto;
+    padding-top: 100px;
+}
+
+.jumbotron2 h1 {
+    font-size: 2.0cm;
+    font-family: candara;
+    font-style: bold;
+    font-weight: 600;
+    margin-left: 70px;
+}
+
+.jumbotron2 p {
+    font-family: candara;
+    padding-top: 20px;
+    margin-left: 70px;
+}
+
+.jumbotron2 .button2{
+    margin-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#schedule {
+    height: 600px;
+    padding-top: 80px;
+}
+
+#schedule h3{
+    padding-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.text1  {
+    font-family: candara;
+}
+
+.text2 {
+    padding-top: 20px;
+    font-family: candara;
+}
+
+#schedule .icon2 {
+    padding-bottom: 20px;
+}
+
+/* style page menu */
+#background3{
+    background: url(../img/pic/menu/2.png) no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    height: 500px;
+    width: auto;
+    opacity: 2;
+}
+
+#background3 .jumbotron3{
+    background: none;
+    margin-top: 150px;
+}
+
+
+.jumbotron3 h1 {
+    font-size: 1cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    font-weight: 600;
+    margin-left: 40px;
+}
+
+
+#price2 h1 {
+    font-family: candara;
+    font-size: larger;
+    font-weight: 600;
+    font-style: bold;
+    margin-left: 70px;
+    padding-top: 90px;
+}
+
+#price .container-fluid{
+    margin-top: -80px;
+}
+
+.col-sm {
+    margin-left: 60px;
+    padding-bottom: 50px;
+}
+
+.col-sm-4 {
+    padding-left: 80px;
+    padding-top: 20px;
+    margin-right: -20px;
+}
+.col-sm-2{
+    padding-top: 25px;
+    padding-left: 80px;
+
+}
+
+#price2 .row h2 {
+    font-family: optima;
+    font-weight: 400;
+    color: #596164;
+    padding-top: 15px;
+    font-size: large;
+}
+
+#price2 .row p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    color: #596164;
+    font-size: small;
+}
+
+.jumbotron-menu {
+    background-color: black;
+    min-height: 400px;
+    width: auto;
+    padding-top: 100px;
+    margin-top: 80px;
+}
+
+.jumbotron-menu h1 {
+    font-size: 1cm;
+    font-family: candara;
+    font-style: bold;
+    font-weight: 500;
+    margin-left: 70px;
+}
+
+.jumbotron-menu p {
+    font-family: candara;
+    padding-top: 20px;
+    margin-left: 70px;
+}
+
+.jumbotron-menu .button2{
+    margin-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+/* end pages menu */
+
+
+/* pages contact us */
+#moment2 {
+    margin-top: 80px;
+}
+
+.moment-text2{
+    padding-top: 120px;
+}
+.moment-text2 h2{
+    font-family: candara;
+    font-size: x-large;
+    font-weight: 800;
+}
+
+.moment-text2 p {
+    font-size: medium;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.moment-pict2 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    float: right;
+}
+/* end pages contact us */
+
+
+/* package */
+#form {
+    padding-top: 80px;
+    height: 850px;
+    background-color: #E3D7C1;
+}
+
+#form h2 {
+    padding-top: 80px;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: candara;
+}
+#form p {
+    margin-top: -10px;
+    padding-bottom: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#form .button-package {
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.background-package {
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
